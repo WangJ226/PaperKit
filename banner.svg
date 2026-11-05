@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="PaperKit 从研究材料到论文初稿">
+<rect width="1200" height="520" rx="24" fill="#101d36"/><circle cx="1110" cy="70" r="220" fill="#173960"/><circle cx="1050" cy="90" r="150" fill="#214d77"/>
+<g font-family="Segoe UI,Microsoft YaHei,PingFang SC,sans-serif">
+<rect x="56" y="46" width="40" height="46" rx="8" fill="#dbe9ff"/><path d="M67 59h17M67 68h17M67 77h10" stroke="#215bc4" stroke-width="3" stroke-linecap="round"/><text x="112" y="81" font-size="32" font-weight="700" fill="#fff">PaperKit</text>
+<text x="56" y="177" font-size="52" font-weight="700" fill="#fff">从研究材料，到论文初稿。</text>
+<text x="59" y="227" font-size="23" fill="#c3d2eb">配合自己的 AI 助手，让主线、图表与引用按阶段落地。</text>
+<text x="59" y="274" font-size="17" fill="#94afda">WINDOWS · LOCAL MCP · AUTHOR-REVIEWED</text>
+<g transform="translate(56 323)">
+<rect width="252" height="125" rx="14" fill="#20324e"/><text x="22" y="34" font-size="14" fill="#8db9ff">01 / MATERIALS</text><text x="22" y="72" font-size="26" fill="#fff" font-weight="600">已有研究材料</text><text x="22" y="101" font-size="16" fill="#b7c8e0">数据 · 结果 · 参考文献</text>
+<rect x="277" width="252" height="125" rx="14" fill="#20324e"/><text x="299" y="34" font-size="14" fill="#8db9ff">02 / DISCUSSION</text><text x="299" y="72" font-size="26" fill="#fff" font-weight="600">讨论论文主线</text><text x="299" y="101" font-size="16" fill="#b7c8e0">证据 · 图表 · 引用安排</text>
+<rect x="554" width="252" height="125" rx="14" fill="#20324e"/><text x="576" y="34" font-size="14" fill="#8db9ff">03 / WORKFLOW</text><text x="576" y="72" font-size="26" fill="#fff" font-weight="600">按阶段推进</text><text x="576" y="101" font-size="16" fill="#b7c8e0">本地成果 · 作者确认</text>
+<rect x="831" width="252" height="125" rx="14" fill="#cfe2ff"/><text x="853" y="34" font-size="14" fill="#315eaa">04 / FIRST DRAFT</text><text x="853" y="72" font-size="26" fill="#112747" font-weight="700">可审阅的初稿</text><text x="853" y="101" font-size="16" fill="#315580">继续核验 · 修改 · 完善</text>
+</g><text x="57" y="487" font-size="14" fill="#8ca6c9">流程示意 / WORKBUDDY · CODEX · CLAUDE DESKTOP</text></g></svg>
