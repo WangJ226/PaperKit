@@ -2,7 +2,7 @@
 
 ## 1. 下载与安装
 
-打开 [最新版本](https://github.com/WangJ226/PaperKit/releases/latest)，选择 **PaperKit-0.3.20-Setup.exe**。便携包供需要解压运行的用户选择，二者任选一种。GitHub自动生成的Source code压缩包包含本仓库展示资料，运行软件请选带PaperKit版本号的安装包。
+打开 [最新版本](https://github.com/WangJ226/PaperKit/releases/latest)，在 Assets 中下载 **PaperKit-Setup.exe**。同页的 Source code 压缩包是公开介绍资料。
 
 同目录的 .sha256.txt 用于校验下载完整性。在PowerShell中执行 `Get-FileHash "安装包完整路径" -Algorithm SHA256`，与校验文件比较。
 
@@ -34,6 +34,6 @@
 
 ## 6. 更新与换机
 
-更新从本仓库Releases下载，先备份项目并关闭PaperKit及相关MCP进程，再覆盖安装。保留旧版安装包以便恢复。当前按下载新包覆盖安装的方式更新。
+更新前保存项目，等待正在执行的任务结束，关闭 PaperKit 后运行新版安装包。安装器可释放空闲的 PaperKit MCP，AI 客户端可保持打开。安装后重新连接 MCP 或重启 AI 客户端，在原项目会话调用 `project_status`，接着当前阶段继续。
 
 换机前联系提供方办理恢复，沿用原权益及体验截止日期。永久权益与设备租约分别展示；联网刷新的是设备租约。
